@@ -1,0 +1,251 @@
+[{
+    "titre":"Fall",
+    "réalisateur":"Parker Finn",
+    "durée":115,
+    "production":2022,
+    "Poster":"images/images (3).jfif",
+    "Festivals":["Festival de Cannes","César","Oscars / Academy Awards"],
+    "Acteurs":[
+        {
+            "Nom":"Jessie",
+            "Prenom":"T. Usher",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Caitlin",
+            "Prenom":"Stasey",
+            "Nationalité":"Australian" 
+        },
+        {
+            "Nom":"Robin",
+            "Prenom":"Weigert",
+            "Nationalité":"American"
+        }
+    ]
+},
+{
+    "titre":"Black Adam",
+    "réalisateur":"Jaume Collet-Serra",
+    "durée":124,
+    "production":2017,
+    "Poster":"https://iegybest.film/wp-content/uploads/2022/10/Black-Adam.jpg",
+    "Festivals":["Festival du Cinéma Américain de Deauville","Mostra de Venise"],
+    "Acteurs":[
+        {
+            "Nom":"Aldis",
+            "Prenom":"Hodge",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Dwayne",
+            "Prenom":"Johnson",
+            "Nationalité":"American" 
+        },
+        {
+            "Nom":"Pierce",
+            "Prenom":"Brosnan",
+            "Nationalité":"Irish" 
+        }
+    ]
+},
+{
+    "titre":"Detective Knight: Redemption",
+    "réalisateur":"Edward Drake",
+    "durée":93,
+    "production":2015,
+    "Poster":"https://iegybest.film/wp-content/uploads/2022/12/Detective-Knight-Redemption.jpg",
+    "Festivals":["Quinzaine des Réalisateurs","Berlinale"],
+    "Acteurs":[
+        {
+            "Nom":"Bruce",
+            "Prenom":"Willis",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Corey William",
+            "Prenom":"Large",
+            "Nationalité":"Canadian"
+        },
+        {
+            "Nom":"John",
+            "Prenom":"Cassini",
+            "Nationalité":"Canadian"
+        }
+    ]
+},
+{
+    "titre":"Avatar: The Way of Water",
+    "réalisateur":"James Cameron",
+    "durée":192,
+    "production":2022,
+    "Poster":"https://iegybest.film/wp-content/uploads/2022/12/Avatar-The-Way-of-Water.jpg",
+    "Festivals":["Goya","Golden Globes","Razzie Awards"],
+    "Acteurs":[
+        {
+            "Nom":"Kate",
+            "Prenom":"Winslet",
+            "Nationalité":"British"
+        },
+        {
+            "Nom":"Sam",
+            "Prenom":"Worthington",
+            "Nationalité":"Australian"
+        },
+        {
+            "Nom":"Sigourney",
+            "Prenom":"Weaver",
+            "Nationalité":"American"
+        }
+    ]
+},
+{
+    "titre":"Black Panther: Wakanda Forever",
+    "réalisateur":"Ryan Coogler",
+    "durée":161,
+    "production":2022,
+    "Poster":"https://iegybest.film/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever.jpg",
+    "Festivals":["Razzie Awards","Premiers plans d'Angers"],
+    "Acteurs":[
+        {
+            "Nom":"Angela",
+            "Prenom":"Bassett",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Danai",
+            "Prenom":"Gurira",
+            "Nationalité":"American-Zimbabwean"
+        },
+        {
+            "Nom":"Letitia",
+            "Prenom":"Wright",
+            "Nationalité":"Guyanese-British"
+        }
+    ]
+},
+{
+    "titre":"SMALL FOOT",
+    "réalisateur":"Wendy Ord",
+    "durée":88,
+    "production":2021,
+    "Poster":"images/7.jfif",
+    "Festivals":["Cannes Film Festival","Sundance Film Festival"],
+    "Acteurs":[
+        {
+            "Nom":"Edward",
+            "Prenom":"Ruttle",
+            "Nationalité":"Canadian"
+        },
+        {
+            "Nom":"Julia",
+            "Prenom":"Garner",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Natasha",
+            "Prenom":"Wilson",
+            "Nationalité":"New-Zealand"
+        }
+    ]
+},
+{
+    "titre":"Mad Heidi",
+    "réalisateur":"Johannes Hartmann",
+    "durée":92,
+    "production":2018,
+    "Poster":"https://iegybest.film/wp-content/uploads/2022/12/Mad-Heidi.jpg",
+    "Festivals":["Berlin Film Festival","Venice Film Festival"],
+    "Acteurs":[
+        {
+            "Nom":"Alice",
+            "Prenom":"Lucy",
+            "Nationalité":"British"
+        },
+        {
+            "Nom":"Casper",
+            "Prenom":"Van Dien",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"kel",
+            "Prenom":"matsena",
+            "Nationalité":"Zimbabwean"
+        }
+    ]
+},
+{
+    "titre":"The Beasts",
+    "réalisateur":"Rodrigo Sorogoyen",
+    "durée":137,
+    "production":2020,
+    "Poster":"https://iegybest.film/wp-content/uploads/2022/12/The-Beasts.jpg",
+    "Festivals":["Toronto International Film Festival","BFI London Film Festival","Edinburgh International Film Festival"],
+    "Acteurs":[
+        {
+            "Nom":"Denis",
+            "Prenom":"Ménochet",
+            "Nationalité":"French"
+        },
+        {
+            "Nom":"Diego",
+            "Prenom":"Anido",
+            "Nationalité":"Spanish"
+        },
+        {
+            "Nom":"Luis",
+            "Prenom":"Zahera",
+            "Nationalité":"Spanish"
+        }
+    ]
+},
+{
+    "titre":"Popey",
+    "réalisateur":"Kristina Buozyte",
+    "durée":114,
+    "production":2021,
+    "Poster":"images/images (6).jfif",
+    "Festivals":["SXSW Film Festival","Telluride Film Festival","American Film Festival"],
+    "Acteurs":[
+        {
+            "Nom":"Eddie",
+            "Prenom":"Marsan",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Melanie",
+            "Prenom":"Gaydos",
+            "Nationalité":"American"
+        },
+        {
+            "Nom":"Richard",
+            "Prenom":"Brake",
+            "Nationalité":"American"
+        }
+    ]
+},
+{
+    "titre":"Black Panther",
+    "réalisateur":"Jan Krüger",
+    "durée":108,
+    "production":2022,
+    "Poster":"images/images.jfif",
+    "Festivals":["Tribeca Film Festival","Raindance Film Festival","Melbourne International Film Festival"],
+    "Acteurs":[
+        {
+            "Nom":"Benjamin",
+            "Prenom":"Siksou",
+            "Nationalité":"French"
+        },
+        {
+            "Nom":"Melvil",
+            "Prenom":"Poupaud",
+            "Nationalité":"French"
+        },
+        {
+            "Nom":"Patrick",
+            "Prenom":"Timsit",
+            "Nationalité":"French"
+        }
+    ]
+}
+]
